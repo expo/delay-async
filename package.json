@@ -1,14 +1,14 @@
 {
   "name": "delay-async",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Promise-based wrapper for setTimeout",
-  "main": "index.js",
+  "main": "delayAsync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/650Industries/delay-async.git"
+    "url": "git+https://github.com/exponent/delay-async.git"
   },
   "keywords": [
     "delay",
@@ -17,13 +17,10 @@
     "promise",
     "setTimeout"
   ],
-  "author": "exponent.team@gmail.com",
+  "author": "support@expo.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/650Industries/delay-async/issues"
+    "url": "https://github.com/exponent/delay-async/issues"
   },
-  "homepage": "https://github.com/650Industries/delay-async#readme",
-  "dependencies": {
-    "babel-runtime": "^5.2.17"
-  }
+  "homepage": "https://github.com/exponent/delay-async#readme"
 }
